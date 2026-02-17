@@ -1,6 +1,4 @@
 # Multi-Class Text Classification: Q&A Dataset
-
-**Authors:** Fahmida Afrin, Faria Akter Tonny, Kazi Shahid Ahmed Galib  
 **Course:** CSE440: Natural Language Processing II  
 **Project Type:** Course Project  
 
@@ -12,7 +10,7 @@ Multi-class Q&A text classification using Machine Learning and Neural Network mo
 ## Files
 
 * `QnA_TextClassification.ipynb` – Google Colab notebook with all code, experiments, and visualizations  
-* `qna_text_classification_report.pdf` – Project report (IEEE double-column format)
+  
 
 ---
 
@@ -58,6 +56,4 @@ The dataset is provided by the course (CSE440). It is pre-split into training (8
 
 ---
 
-## License
 
-This project is for academic purposes. Please cite appropriately if referenced.
